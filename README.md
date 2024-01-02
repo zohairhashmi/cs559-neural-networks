@@ -1,4 +1,4 @@
 # cs559-neural-networks
-Assignment Notebooks for course CS-559
-Masters Computer Science
-University of Illinois at Chicago
+Assignment Notebooks for course CS-559 <br>
+Masters Computer Science <br>
+University of Illinois at Chicago <br>
